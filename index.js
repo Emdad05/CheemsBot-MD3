@@ -1,4 +1,5 @@
 //════════════════════════════//
+//Credit goes to xeon
 //If you want to recode, reupload
 //or copy the codes/script,
 //pls give credit
@@ -51,14 +52,14 @@ console.log(color(figlet.textSync('Cheems Bot-MD', {
 	    width: 80,
 		whitespaceBreak: true
         }), 'yellow'))
-console.log(color('\n🐶 YT CHANNEL: Xeon ','silver'))
-console.log(color('🐶 GITHUB: DGXeon ','silver'))
-console.log(color('🐶 WA NUMBER: +916909137213 ','silver'))
-console.log(color('  🦄Xeon Bot Inc. 2022🦄','mediumseagreen'))
-    console.log(color('🐶','red'), color('I Wrote This Script By Myself!', 'yellow'))
+console.log(color('\n🐶 Insta. : emdad_98760 ','silver'))
+console.log(color('🐶 GITHUB: Emdad05 ','silver'))
+console.log(color('🐶 WA NUMBER: +917099915088 ','silver'))
+console.log(color('  🦄Emd Bot Inc. 2022🦄','mediumseagreen'))
+    console.log(color('🐶','red'), color('I Wrote This Script By Xeon!', 'yellow'))
     console.log(color('🐶','red'), color('Source Code Version: 3.0', 'aqua'))
     console.log(color('🐶','red'), color('Bug? Error? Suggestion? Talk to developer:', 'aqua'))
-    console.log(color('🐶', 'cyan'), color('https://wa.me/916909137213'))
+    console.log(color('🐶', 'cyan'), color('https://wa.me/917099915088'))
     console.log(color('🐶', 'cyan'), color('Cheems Bot Is Online...', 'pink'))
     console.log(color('🐶', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
     console.log(color('🐶','red'), color('Thanks For Using Cheems Bot', 'white'))
